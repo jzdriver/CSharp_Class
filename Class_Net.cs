@@ -1,3 +1,6 @@
+
+using System.Net.NetworkInformation;
+
 /// <summary>
 /// 获取本机的IPv4地址
 /// </summary>
